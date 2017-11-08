@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>game.spritefont</Source>
+      <Name>game</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriver\bin\x86\Debug\Content\game.xnb</Output>
+      <Time>2013-06-22T14:38:06.3337486-03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFontGrande.spritefont</Source>
+      <Name>SpriteFontGrande</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriver\bin\x86\Debug\Content\SpriteFontGrande.xnb</Output>
+      <Time>2011-09-15T22:48:35.2049296-03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFontMedia.spritefont</Source>
+      <Name>SpriteFontMedia</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriver\bin\x86\Debug\Content\SpriteFontMedia.xnb</Output>
+      <Time>2011-09-09T00:07:07.1633155-03:00</Time>
+    </Item>
+    <Item>
+      <Source>pista.bmp</Source>
+      <Name>pista</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriver\bin\x86\Debug\Content\pista.xnb</Output>
+      <Time>2011-07-17T13:34:28.7138671-03:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuStick.bmp</Source>
+      <Name>MenuStick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriver\bin\x86\Debug\Content\MenuStick.xnb</Output>
+      <Time>2011-03-27T15:20:48.5410156-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Carro.bmp</Source>
+      <Name>Carro</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriver\bin\x86\Debug\Content\Carro.xnb</Output>
+      <Time>2013-06-27T22:36:34.4052218-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriverContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriver\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriverContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Programação\Kinect\Fontes\KinDriver\KinDriver\KinDriver\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-06-25T00:41:53.1612929-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
